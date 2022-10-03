@@ -81,6 +81,7 @@ ul {
     flex-flow: wrap;
     flex-direction: column-reverse;
     align-items: flex-end;
+    align-content: flex-start;
 }
 
 .caption li, a {
